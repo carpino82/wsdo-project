@@ -1,0 +1,139 @@
+/*-----------color palette----------/
+ * light blue-#4e79b4
+ * grey-#d1d2d6
+ * yellow-#f1e84a
+ * dark blue-#223d58
+ */
+
+
+
+
+/*------------css reset----------*/
+html, body, div, h1,h2,h3,p {
+	margin:0;
+	padding:0;
+}
+
+/*------------Basic Syling----------*/
+#wrapper{
+	margin:0 auto;
+	padding:50px 25px;
+	width:825px;
+	background-color:#4e79b4;
+	
+	
+}
+
+body{
+background-color:#223d58;
+}
+
+/*-----------Header----------*/
+header h1{
+	color:#223d58;
+	background:#d1d2d6;
+	padding:30px;
+	text-align:center;
+	float:left;
+	border-radius: 1em;
+	border:1px solid #223D58;
+	width:400px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom:20px;
+}
+
+header aside{
+	float:right;
+	padding:19px;
+	width:315px;
+	background-color:#223d58;
+	border:1px solid #D1D2D6;
+	color:#d1d2d6;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align:center;
+}
+
+/*----------basic styling---------*/
+h2{
+	width:150px;
+	background:#d1d2d6;
+	color:#223d58;
+	border-radius:.750em;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align:center;
+	margin:10px;
+	
+}
+
+h3{
+	color:#d1d2d6;
+
+}
+
+/*-----------siteIntent---------*/
+#siteIntent{
+	clear:both;
+}
+
+#siteIntent h3{
+	background-color:#223d58;
+	border:1px solid #D1D2D6;
+	color:#d1d2d6;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:10px;
+}
+
+#siteIntent p{
+	margin-left:11px;
+	padding:10px;
+	background-color:#223d58;
+	font-family: Arial, Helvetica, sans-serif;
+	border:1px solid #D1D2D6;
+	color:#d1d2d6;
+}
+
+/*-----------analysis---------*/
+#analysis{
+	clear:both;
+}
+
+#analysis h3{
+	background-color:#223d58;
+	border:1px solid #D1D2D6;
+	color:#d1d2d6;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:10px;
+}
+
+#analysis  p, ul, li{
+	margin-left:11px;
+	padding:10px;
+	background-color:#223d58;
+	font-family: Arial, Helvetica, sans-serif;
+	border:1px solid #D1D2D6;
+	color:#d1d2d6;
+}
+
+/*-----------target---------*/
+#targetAudience{
+	clear:both;
+}
+
+
+#targetAudience p{
+	margin-left:11px;
+	padding:10px;
+	background-color:#223d58;
+	font-family: Arial, Helvetica, sans-serif;
+	border:1px solid #D1D2D6;
+	color:#d1d2d6;
+}
+
+
+
+
+
+
+
+
+
